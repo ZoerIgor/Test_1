@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task-1", "Task-1.vcxproj", "{B3BBFAE8-9BF7-4844-B840-EC95927A9981}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test_Task-1", "..\Test_Task-1\Test_Task-1.vcxproj", "{EFC9C762-02ED-45FB-9C9A-2F239D442A1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{B3BBFAE8-9BF7-4844-B840-EC95927A9981}.Release|x64.Build.0 = Release|x64
 		{B3BBFAE8-9BF7-4844-B840-EC95927A9981}.Release|x86.ActiveCfg = Release|Win32
 		{B3BBFAE8-9BF7-4844-B840-EC95927A9981}.Release|x86.Build.0 = Release|Win32
+		{EFC9C762-02ED-45FB-9C9A-2F239D442A1D}.Debug|x64.ActiveCfg = Debug|x64
+		{EFC9C762-02ED-45FB-9C9A-2F239D442A1D}.Debug|x64.Build.0 = Debug|x64
+		{EFC9C762-02ED-45FB-9C9A-2F239D442A1D}.Debug|x86.ActiveCfg = Debug|Win32
+		{EFC9C762-02ED-45FB-9C9A-2F239D442A1D}.Debug|x86.Build.0 = Debug|Win32
+		{EFC9C762-02ED-45FB-9C9A-2F239D442A1D}.Release|x64.ActiveCfg = Release|x64
+		{EFC9C762-02ED-45FB-9C9A-2F239D442A1D}.Release|x64.Build.0 = Release|x64
+		{EFC9C762-02ED-45FB-9C9A-2F239D442A1D}.Release|x86.ActiveCfg = Release|Win32
+		{EFC9C762-02ED-45FB-9C9A-2F239D442A1D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
